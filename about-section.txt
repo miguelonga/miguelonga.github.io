@@ -1,0 +1,50 @@
+<section id="about" class="about">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-header">
+          <h2>Desarrollo de apps personalizadas</h2>
+          <p>Metodología de desarrollo AGILE. Si lo que quieres es llegar de un punto A a un punto B empecemos por dos ruedas...</p>
+        </div>
+
+        <div class="row gy-4">
+          <div class="col-lg-6">
+            <h3>¿Por qué no directamente el coche? Menos es más</h3>
+            <img src="assets/img/mvp.png" class="img-fluid rounded-4 mb-4" alt="">
+            <p>Cuando hablamos de desarrollo de software siempre menos es más ya que cuanto más queramos abarcar, más líneas de código, más archivos y en definitiva más peso y más 'ruido' para trabajar</p>
+            <p>Por eso es CLAVE identificar las necesidades antes de empezar el desarrollo de un producto. 
+              Como es imposible anteponerse a las necesidades y estas van surgiendo a medida que el producto coge forma, 
+              lo mejor es seguir una metodología que nos permita ser ágiles y con ella podamos ser capaces de progresar en el desarrollo de la aplicación a la misma velocidad que progresan las necesidades de negocio.</p>
+            <p class="fst-italic">
+              Con nuestra metodología, tenemos sesiones periódicas que pueden ser mensuales o bisemanales en las que:
+            </p>
+            <ul>
+              <li><i class="bi bi-check-circle-fill"></i> Fase 1. Se parte de una idea o necesidad y se le da forma y diseño para el equipo de desarrollo.</li>
+              <li><i class="bi bi-check-circle-fill"></i> Fase 2. Se implementan las funcionalidades que se han definido en la fase de diseño.</li>
+              <li><i class="bi bi-check-circle-fill"></i> Fase 3. Se miden los resultados y vuelta a empezar.</li>
+            </ul>
+          </div>
+          <div class="col-lg-6">
+            <div class="content ps-0 ps-lg-5">
+              <p>
+                Siguiendo con el ejemplo... Nuestro cliente nos dice que necesita un coche. Nosotros como profesionales necesitamos saber para qué..
+                al ver que sólo necesita desplazarse unos metros le sugerimos un patinete (Fase 1). <br> Construimos el patinete (Fase 2). <br> Tras dos semanas
+                nos reunimos con el cliente y observamos que la necesidad de desplazarse esta cubierta (Fase 3). 
+              </p>
+              <p>
+                Ahora bien, si el cliente sigue necesitando algo más... volvemos a girar la rueda. Nos dice que el quiere ir sentado, en este caso le ofrecemos
+                como solución construirle una bicicleta (Fase 1). Construimos la bicicleta (Fase 2). Observamos que el cliente queda satisfecho (Fase 3).
+              </p>
+              
+              <img src="assets/img/mvp2.png" class="img-fluid rounded-4 mb-4" alt="">
+              <p>Los beneficios de esta metodología de desarrollo ágil son evidentes:</p>
+              <ul>
+                <li><i class="bi bi-check-circle-fill"></i> Entrega de valor inmediata. El cliente empieza a beneficiarse de la solución lo antes posible</li>
+                <li><i class="bi bi-check-circle-fill"></i> Alta adaptabilidad a diferentes escenarios.</li>
+                <li><i class="bi bi-check-circle-fill"></i> reducción del coste de desarrollo al no implementar todo de golpe y hacerlo solo con lo necesario.</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </section><!-- End About Us Section -->
